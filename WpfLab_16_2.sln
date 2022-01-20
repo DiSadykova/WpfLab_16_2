@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLab_16_2", "WpfLab_16_2\WpfLab_16_2.csproj", "{0C4D3BBC-E3CA-46D2-8F46-CEF4E9443A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLab_16_2_2", "WpfLab_16_2_2\WpfLab_16_2_2.csproj", "{8024D6AE-AB05-4E2C-912C-E29BAC6928B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C4D3BBC-E3CA-46D2-8F46-CEF4E9443A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4D3BBC-E3CA-46D2-8F46-CEF4E9443A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4D3BBC-E3CA-46D2-8F46-CEF4E9443A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4D3BBC-E3CA-46D2-8F46-CEF4E9443A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8024D6AE-AB05-4E2C-912C-E29BAC6928B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8024D6AE-AB05-4E2C-912C-E29BAC6928B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8024D6AE-AB05-4E2C-912C-E29BAC6928B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8024D6AE-AB05-4E2C-912C-E29BAC6928B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5377D463-0330-439E-B683-624E8EE6CA9E}
+	EndGlobalSection
+EndGlobal
